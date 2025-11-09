@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://breeq.vercel.app/sitemap.xml
